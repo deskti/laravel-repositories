@@ -1,5 +1,5 @@
 {
-    "name": "rinvex/laravel-repositories",
+    "name": "deskti/laravel-repositories",
     "description": "Rinvex Repository is a simple, intuitive, and smart implementation of Active Repository with extremely flexible & granular caching system for Laravel, used to abstract the data layer, making applications more flexible to maintain.",
     "type": "library",
     "keywords": [
